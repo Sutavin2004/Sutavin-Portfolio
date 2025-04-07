@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply global theming to the body tag */
+body {
+  @apply bg-lightBg text-lightText font-body transition-colors duration-300 dark:bg-bgDark dark:text-textPrimary;
+}
+
+html {
+  scroll-behavior: smooth;
+}
