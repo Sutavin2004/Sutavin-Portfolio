@@ -28,16 +28,6 @@ Welcome to my personal portfolio site, built to showcase my skills, experiences,
 
 ---
 
-## 📸 Screenshots
-
-<!-- Replace these with your own screenshots if you want -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Homepage+Dark+Mode" alt="Home dark mode">
-  <img src="https://via.placeholder.com/800x400?text=Homepage+Light+Mode" alt="Home light mode">
-</p>
-
----
-
 ## 🛠️ Getting Started
 
 Want to run this locally?
